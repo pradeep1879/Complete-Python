@@ -74,4 +74,3 @@ NameError: name 'key' is not defined. Did you mean: 'keys'?
 >>> new_dict = dict.fromkeys(keys, keys)
 >>> new_dict
 {'masala': ['masala', 'ginger', 'lemon'], 'ginger': ['masala', 'ginger', 'lemon'], 'lemon': ['masala', 'ginger', 'lemon']}
->>> 
